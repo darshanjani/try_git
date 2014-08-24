@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 <properties>
-	<margintpf.release>6.18.3.0</margintpf.release>
+	<margintpf.release>5.18.3.0</margintpf.release>
 </properties>
-=======
-<property>5.18.2.0</property>
->>>>>>> remotes/origin/iss53
